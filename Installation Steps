@@ -1,0 +1,12 @@
+Install Python:
+sudo apt update
+sudo apt install python3
+
+Verify Python Installation:
+python --version
+
+Installation of code:
+git clone <code>
+cd /path/code/
+python <code>
+Enter your password to check the strength of the password
