@@ -11,3 +11,5 @@ Project: PASSWORD STRENGTH CHECKER
 
 Output:
 
+![image](https://github.com/user-attachments/assets/5f0244fd-1ef6-477a-8839-330e85f53a57)
+
